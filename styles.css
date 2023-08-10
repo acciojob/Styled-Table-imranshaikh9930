@@ -1,1 +1,18 @@
 /* your code */
+
+table{
+	border:3px solid black;
+	border-collapse:collapse;
+	
+	
+	
+	
+}
+thead{
+	background:lightcyan;
+	
+}
+th,td{
+	padding:6px 12px;
+	text-align:center;
+}
